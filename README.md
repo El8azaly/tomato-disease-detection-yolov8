@@ -53,9 +53,7 @@ tomato-disease-detection-yolov8/
 ├── assets/
 │   └── telegram_sample_result.png
 │
-├── requirements.txt
-├── README.md
-└── .gitignore
+└── README.md
 ```
 
 ---
